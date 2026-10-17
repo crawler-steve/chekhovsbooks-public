@@ -1,0 +1,24 @@
+{
+  "name": "Chekhov's Gun Book Discovery",
+  "short_name": "Chekhov's Gun",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070507",
+  "theme_color": "#140b12",
+  "description": "In-store dark romance and fantasy book discovery for Chekhov's Gun.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
